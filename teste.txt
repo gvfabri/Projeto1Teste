@@ -1,2 +1,4 @@
 add $t2, $t4, $t2
 sub $t2, $t3, $t4
+
+lw $t2, $t3
